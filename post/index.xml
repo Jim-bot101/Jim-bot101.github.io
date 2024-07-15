@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jim&#39;s blog</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Jim&#39;s blog</description>
+    <title>Posts on Jim&#39;s Blog</title>
+    <link>https://Jim-bot101.github.io/post/</link>
+    <description>Recent content in Posts on Jim&#39;s Blog</description>
     <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Jul 2024 23:48:37 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2024 23:48:20 +0800</lastBuildDate>
+    <atom:link href="https://Jim-bot101.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/post/hello/</link>
+      <link>https://Jim-bot101.github.io/post/hello/</link>
       <pubDate>Mon, 15 Jul 2024 23:48:20 +0800</pubDate>
-      <guid>http://localhost:1313/post/hello/</guid>
+      <guid>https://Jim-bot101.github.io/post/hello/</guid>
       <description>HELLO</description>
     </item>
   </channel>
